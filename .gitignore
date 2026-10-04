@@ -1,0 +1,20 @@
+﻿# Environments
+.env
+.venv
+aipdd_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Model Weights
+*.pt
+*.onnx
+*.h5
+*.pth
+*.weights
